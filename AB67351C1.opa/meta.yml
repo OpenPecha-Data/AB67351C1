@@ -1,0 +1,15 @@
+id: AB67351C1
+title: 'MSV 4,00: Kṣudrakavastu'
+type: translation
+pechas:
+- I1C3CF11F
+- I9C2E276C
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:10:45.971297
+  last_modified_at: 2023-02-10 00:10:45.971314
+alignment_to_base:
+  I1C3CF11F/6F5C: 20D4
+  I9C2E276C/FD0E: 20D4
